@@ -1,3 +1,3 @@
 # griffon
-Testing the Griffon Framework
+Testing the Griffon Framework http://griffon-framework.org/.
 
