@@ -41,4 +41,4 @@ If you prefer building with Maven then execute the following commands
 
 Don't forget to add any extra JAR dependencies to `pom.xml`!
 
-That is.
+That is (this should be removed).
